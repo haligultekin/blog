@@ -1,4 +1,4 @@
----
+
 layout: post
 title:  "A Beginner's Guide to Sourcing Vintage Denim"
 date:   2026-09-24 10:00:00 +0300

@@ -1,4 +1,4 @@
----
+
 layout: post
 title: "The Heart of the Homelab: A Deep Dive into My Architecture"
 date: 2026-09-24 10:00:00 +0000

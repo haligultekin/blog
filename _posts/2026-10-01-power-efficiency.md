@@ -1,4 +1,4 @@
----
+
 layout: post
 title: "Power Efficiency: Running a Lab Without Breaking the Bank"
 date: 2026-10-01 10:00:00 +0000

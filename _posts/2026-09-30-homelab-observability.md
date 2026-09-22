@@ -1,5 +1,5 @@
 ```yaml
----
+
 layout: post
 title: "Monitoring the Matrix: Homelab Observability"
 date: 2026-09-30 10:00:00 +0000

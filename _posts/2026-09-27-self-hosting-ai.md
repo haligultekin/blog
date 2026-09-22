@@ -1,4 +1,4 @@
----
+
 layout: post
 title: "Self-Hosting AI: Bringing Intelligence Home"
 date: 2026-09-27 10:00:00 +0000

@@ -1,4 +1,4 @@
----
+
 layout: post
 title: "The 3-2-1 Backup Strategy in a Homelab"
 date: 2026-09-26 10:00:00 +0000
