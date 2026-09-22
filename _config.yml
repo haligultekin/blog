@@ -4,7 +4,7 @@ email: "halil@example.com"
 description: "A blog about tech, reselling, and automation."
 url: "https://haligultekin.github.io"
 baseurl: "/blog"
-remote_theme: pages-themes/cayman@v0.2.0
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
