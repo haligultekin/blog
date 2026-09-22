@@ -1,4 +1,4 @@
----
+
 layout: post
 title: "Barton Fink (1991) - Movie Review"
 date: 2026-09-22 12:00:00 +0000

@@ -1,4 +1,4 @@
----
+
 layout: post
 title: "Raise the Red Lantern - Movie Review"
 date: 2026-09-22 12:05:00 +0000
