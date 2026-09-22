@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kırmızı Fenerin Yükselişi (Raise the Red Lantern) - Movie Review"
-date: 2026-09-23 12:05:00 +0000
+date: 2026-09-22 12:05:00 +0000
 categories: movies reviews
 tags: [film, classic, 1991]
 image: "https://images.unsplash.com/photo-1440407876336-62333a6f010f?auto=format&fit=crop&w=1000&q=80"

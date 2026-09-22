@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mad Men (Series) - Currently Watching"
-date: 2026-09-23 12:10:00 +0000
+date: 2026-09-22 12:10:00 +0000
 categories: series reviews
 tags: [tv, mad-men, drama]
 image: "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=1000&q=80"

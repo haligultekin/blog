@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Canavar Avcısı (Monster Hunter) - Movie Review"
-date: 2026-09-23 12:15:00 +0000
+date: 2026-09-22 12:15:00 +0000
 categories: movies reviews
 tags: [film, action, 2020]
 image: "https://images.unsplash.com/photo-1600267175161-cfaa711b4a81?auto=format&fit=crop&w=1000&q=80"
