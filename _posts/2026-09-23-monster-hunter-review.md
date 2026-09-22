@@ -11,5 +11,5 @@ Also checking off **Canavar Avcısı (Monster Hunter)** from the 2020 action cat
 * **IMDb Link:** [Monster Hunter on IMDb](https://www.imdb.com/title/tt6475714/)
 * **Where to Stream:** [Find on JustWatch](https://www.justwatch.com/us/movie/monster-hunter)
 
-**My Rating:**  
-No rating logged in Plex! *Ali, let me know your 1 to 5 star rating for this action flick so I can add it!*
+  
+

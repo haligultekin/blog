@@ -12,4 +12,4 @@ Recently watched **Kırmızı Fenerin Yükselişi** (Raise the Red Lantern) via 
 * **Where to Stream:** [Find on JustWatch](https://www.justwatch.com/us/movie/raise-the-red-lantern)
 
 **My Rating:**  
-I didn't star this one in Plex yet. *Ali, what rating (1-5) would you give this masterpiece? Let me know and I'll update it!*
+⭐⭐⭐⭐⭐ (5/5 Stars) - Absolute Masterpiece!

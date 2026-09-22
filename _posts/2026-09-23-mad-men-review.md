@@ -11,5 +11,5 @@ I've been working my way through the early episodes of **Mad Men**, most recentl
 * **IMDb Link:** [Mad Men on IMDb](https://www.imdb.com/title/tt0804503/)
 * **Where to Stream:** [Find on JustWatch](https://www.justwatch.com/us/tv-show/mad-men)
 
-**My Rating:**  
-I haven't rated the series overall yet! *Ali, on a scale of 1 to 5, how are you liking Don Draper's world so far?*
+  
+

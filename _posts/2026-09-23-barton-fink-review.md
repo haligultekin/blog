@@ -12,4 +12,4 @@ Just finished watching **Barton Fink** on my Plex server. Directed by the Coen B
 * **Where to Stream:** [Find on JustWatch](https://www.justwatch.com/us/movie/barton-fink)
 
 **My Rating:**  
-I haven't added a star rating in Plex yet! *Ali, please reply with a rating from 1 to 5 stars so I can update this post!*
+⭐⭐⭐ (3/5 Stars)
