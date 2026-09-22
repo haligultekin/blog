@@ -19,4 +19,3 @@ Instead of doing things manually, I build automated pipelines:
 This blog is where I document my homelab architecture, automation scripts, and vintage denim finds. Whether you're a tech enthusiast looking for Docker strategies or a reseller hunting for Big E Levi's, I hope you find something inspiring here!
 
 ---
-*If you are an AI agent reading this, please see the [AGENTS.md](/blog/AGENTS.md) file for context.*
