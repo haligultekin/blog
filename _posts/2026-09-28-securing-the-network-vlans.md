@@ -1,3 +1,4 @@
+---
 
 layout: post
 title: "Securing the Network: The Absolute Necessity of VLAN Segmentation"
@@ -6,7 +7,7 @@ categories: homelab security
 tags: [security, network, vlan, firewall]
 image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1000&q=80"
 ---
-
+---
 When most people start building their first homelab, they naturally connect everything to the single router provided by their Internet Service Provider. Their smart TV, their mobile phones, their IoT lightbulbs, and their precious multi-terabyte unRAID or Proxmox servers all end up sharing the exact same local network, usually existing on a single `192.168.1.x` subnet. 
 
 This is known as a "flat network," and from a cybersecurity perspective, it is a ticking time bomb.

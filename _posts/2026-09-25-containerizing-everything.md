@@ -1,3 +1,4 @@
+---
 
 layout: post
 title: "Containerizing Everything: Mastering Docker Orchestration"
@@ -6,7 +7,7 @@ categories: homelab docker
 tags: [docker, containers, self-hosted, linux]
 image: "https://images.unsplash.com/photo-1605745341112-85968b19335b?auto=format&fit=crop&w=1000&q=80"
 ---
-
+---
 If there is one absolute, unbreakable rule I follow in my homelab, it is this: **Everything goes in a container.** 
 
 If you are currently installing software directly onto your host operating system using `apt-get` or manually downloading binaries, you are setting yourself up for future pain. Dependency conflicts will arise, software upgrades will break your system, and migrating to new hardware will take days instead of minutes.

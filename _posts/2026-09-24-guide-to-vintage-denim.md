@@ -1,3 +1,4 @@
+---
 
 layout: post
 title:  "A Beginner's Guide to Sourcing Vintage Denim"
@@ -7,7 +8,7 @@ tags: [reselling, vintage, fashion]
 image: "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=1000&q=80"
 ---
 ## The Thrill of the Hunt
-
+---
 Finding a perfect pair of vintage Levi's 501s or a classic RRL jacket is one of the most rewarding experiences in reselling. It’s not just about the profit; it’s about preserving a piece of history.
 
 ### What to Look For

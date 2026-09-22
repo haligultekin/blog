@@ -1,3 +1,4 @@
+---
 
 layout: post
 title: "The Heart of the Homelab: A Deep Dive into My Architecture"
@@ -6,7 +7,7 @@ categories: homelab architecture
 tags: [homelab, server, infrastructure, hardware]
 image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1000&q=80"
 ---
-
+---
 Welcome to the beating heart of my digital life! If you are new to the world of homelabs, you might be wondering why anyone would want a rack of blinking servers humming away in a closet. For me, it started as a simple desire to self-host a few files. Over time, it evolved into an obsession with digital sovereignty, learning enterprise-grade IT skills, and automating my entire vintage reselling business. 
 
 In this post, I want to take you through the high-level architecture of my setup. Building a reliable homelab is less about buying the most expensive hardware and more about designing a system that is resilient, low-power, and highly automated.

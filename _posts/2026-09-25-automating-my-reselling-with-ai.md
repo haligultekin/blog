@@ -1,3 +1,4 @@
+---
 
 layout: post
 title:  "How I Automated My eBay Store with AI Agents"
@@ -7,7 +8,7 @@ tags: [automation, ai, ebay, reselling]
 image: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80"
 ---
 ## Working Smarter, Not Harder
-
+---
 Running an eBay store takes a lot of manual labor—taking photos, writing SEO titles, measuring garments, and managing listings. I decided to change that by building an AI-powered homelab server.
 
 ### The Pipeline
