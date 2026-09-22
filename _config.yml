@@ -1,0 +1,10 @@
+title: "Halil's Blog"
+author: "Halil"
+email: "halil@example.com"
+description: "A blog about tech, reselling, and automation."
+url: "https://haligultekin.github.io"
+baseurl: "/blog"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
