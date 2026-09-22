@@ -7,6 +7,9 @@ categories: homelab hardware
 tags: [hardware, power, efficiency]
 image: "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?auto=format&fit=crop&w=1000&q=80"
 ---
+
+![Cover Image](https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?auto=format&fit=crop&w=1000&q=80)
+
 It's tempting to buy massive, decommissioned enterprise servers off eBay for cheap. They have dozens of cores and terabytes of RAM. But there's a hidden cost: **Electricity.**
 ---
 Running old enterprise gear 24/7 can add hundreds of dollars to your annual power bill. 

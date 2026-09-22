@@ -7,6 +7,9 @@ categories: homelab media
 tags: [media, streaming, plex, jellyfin]
 image: "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=1000&q=80"
 ---
+
+![Cover Image](https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=1000&q=80)
+
 One of the most popular gateway drugs into the homelab hobby is building a personal media server. The ability to host, organize, and stream your own video and audio files anywhere in the world is incredibly rewarding.
 ---
 ### Hardware Acceleration is Everything

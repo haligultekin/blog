@@ -7,6 +7,9 @@ categories: homelab backups
 tags: [backups, disaster-recovery, data]
 image: "https://images.unsplash.com/photo-1600267175161-cfaa711b4a81?auto=format&fit=crop&w=1000&q=80"
 ---
+
+![Cover Image](https://images.unsplash.com/photo-1600267175161-cfaa711b4a81?auto=format&fit=crop&w=1000&q=80)
+
 Data loss is not a matter of *if*, but *when*. Hardware fails, drives crash, and accidental deletions happen. That's why implementing a solid backup strategy is the most critical part of running a homelab.
 ---
 I follow the industry-standard **3-2-1 Backup Rule**:

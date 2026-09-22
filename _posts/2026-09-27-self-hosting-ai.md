@@ -7,6 +7,9 @@ categories: homelab ai
 tags: [ai, self-hosted, llm, automation]
 image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1000&q=80"
 ---
+
+![Cover Image](https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1000&q=80)
+
 One of the most exciting developments in the homelab space recently has been the ability to self-host Artificial Intelligence models. Instead of relying entirely on cloud APIs, you can now run powerful LLMs (Large Language Models) entirely locally.
 ---
 ### Why Self-Host AI?

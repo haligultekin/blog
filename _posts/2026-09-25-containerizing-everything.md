@@ -7,6 +7,9 @@ categories: homelab docker
 tags: [docker, containers, self-hosted, linux]
 image: "https://images.unsplash.com/photo-1605745341112-85968b19335b?auto=format&fit=crop&w=1000&q=80"
 ---
+
+![Cover Image](https://images.unsplash.com/photo-1605745341112-85968b19335b?auto=format&fit=crop&w=1000&q=80)
+
 ---
 If there is one absolute, unbreakable rule I follow in my homelab, it is this: **Everything goes in a container.** 
 
