@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building the Ultimate Denim Handbook: An Open-Source Textile Masterclass"
-date:   2026-09-25 00:40:00 +0000
+date:   2026-09-24 20:40:00 +0000
 categories: [Textiles, Open-Source, Homelab]
 ---
 
